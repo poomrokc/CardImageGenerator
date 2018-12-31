@@ -1,0 +1,9 @@
+{
+    "path":{
+        "output":"./output/",
+        "font":"./font/",
+        "background":"./background/"
+    },
+    "backgroundSelectorField":"alias",
+    "groupBy":["alias","university","position"]
+}

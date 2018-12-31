@@ -1,0 +1,50 @@
+[
+    {
+        "name": "PoomrokC#1",
+        "unusedData": "dummy321",
+        "alias": "boogle",
+        "university": "Chulalongkorn",
+        "position": "reader",
+        "imageURL": {
+            "type": "local",
+            "path": "images/1.jpg"
+        },
+        "id": "1"
+    },
+    {
+        "name": "ภูมิร็อค#2",
+        "unusedData": "dummy322",
+        "alias": "basecook",
+        "university": "จุฬาฯ",
+        "position": "นักอ่าน",
+        "imageURL": {
+            "type": "local",
+            "path": "images/2.jpg"
+        },
+        "id": "2"
+    },
+    {
+        "name": "PoomrokC#3",
+        "unusedData": "dummy323",
+        "alias": "boogle",
+        "university": "จุฬาฯ",
+        "position": "นักเขียน",
+        "imageURL": {
+            "type": "url",
+            "path": "https://avatars2.githubusercontent.com/u/39852260?s=460&v=4"
+        },
+        "id": "3"
+    },
+    {
+        "name": "ภูมิร็อค#4",
+        "unusedData": "dummy324",
+        "alias": "basecook",
+        "university": "Chulalongkorn",
+        "position": "Writer",
+        "imageURL": {
+            "type": "url",
+            "path": "https://avatars2.githubusercontent.com/u/39852260?s=460&v=4"
+        },
+        "id": "4"
+    }
+]
